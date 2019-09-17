@@ -1,0 +1,2002 @@
+[
+  {
+    "globalTradeID": 426132582,
+    "tradeID": 47560767,
+    "date": "2019-09-17 20:07:06",
+    "type": "sell",
+    "rate": "0.02060000",
+    "amount": "0.09932028",
+    "total": "0.00204599",
+    "orderNumber": 644445310747
+  },
+  {
+    "globalTradeID": 426132560,
+    "tradeID": 47560766,
+    "date": "2019-09-17 20:06:29",
+    "type": "sell",
+    "rate": "0.02057547",
+    "amount": "0.44013747",
+    "total": "0.00905603",
+    "orderNumber": 644445142915
+  },
+  {
+    "globalTradeID": 426132559,
+    "tradeID": 47560765,
+    "date": "2019-09-17 20:06:28",
+    "type": "buy",
+    "rate": "0.02060843",
+    "amount": "1.43510253",
+    "total": "0.02957521",
+    "orderNumber": 644445134923
+  },
+  {
+    "globalTradeID": 426132558,
+    "tradeID": 47560764,
+    "date": "2019-09-17 20:06:28",
+    "type": "buy",
+    "rate": "0.02060842",
+    "amount": "0.01009631",
+    "total": "0.00020806",
+    "orderNumber": 644445134923
+  },
+  {
+    "globalTradeID": 426132528,
+    "tradeID": 47560763,
+    "date": "2019-09-17 20:05:41",
+    "type": "buy",
+    "rate": "0.02060875",
+    "amount": "0.00090561",
+    "total": "0.00001866",
+    "orderNumber": 644444831227
+  },
+  {
+    "globalTradeID": 426132525,
+    "tradeID": 47560762,
+    "date": "2019-09-17 20:05:41",
+    "type": "sell",
+    "rate": "0.02057502",
+    "amount": "0.01003556",
+    "total": "0.00020648",
+    "orderNumber": 644444824234
+  },
+  {
+    "globalTradeID": 426132523,
+    "tradeID": 47560761,
+    "date": "2019-09-17 20:05:40",
+    "type": "sell",
+    "rate": "0.02057502",
+    "amount": "0.00006075",
+    "total": "0.00000124",
+    "orderNumber": 644444819239
+  },
+  {
+    "globalTradeID": 426132521,
+    "tradeID": 47560760,
+    "date": "2019-09-17 20:05:39",
+    "type": "buy",
+    "rate": "0.02060875",
+    "amount": "0.00005364",
+    "total": "0.00000110",
+    "orderNumber": 644444808250
+  },
+  {
+    "globalTradeID": 426132519,
+    "tradeID": 47560759,
+    "date": "2019-09-17 20:05:37",
+    "type": "sell",
+    "rate": "0.02057501",
+    "amount": "0.02500000",
+    "total": "0.00051437",
+    "orderNumber": 644444801257
+  },
+  {
+    "globalTradeID": 426132469,
+    "tradeID": 47560758,
+    "date": "2019-09-17 20:04:40",
+    "type": "sell",
+    "rate": "0.02057444",
+    "amount": "0.64921103",
+    "total": "0.01335715",
+    "orderNumber": 644444489569
+  },
+  {
+    "globalTradeID": 426132465,
+    "tradeID": 47560757,
+    "date": "2019-09-17 20:04:35",
+    "type": "buy",
+    "rate": "0.02057442",
+    "amount": "1.00000000",
+    "total": "0.02057442",
+    "orderNumber": 644444470588
+  },
+  {
+    "globalTradeID": 426132464,
+    "tradeID": 47560756,
+    "date": "2019-09-17 20:04:35",
+    "type": "buy",
+    "rate": "0.02057441",
+    "amount": "0.06177643",
+    "total": "0.00127101",
+    "orderNumber": 644444470588
+  },
+  {
+    "globalTradeID": 426132456,
+    "tradeID": 47560755,
+    "date": "2019-09-17 20:04:19",
+    "type": "sell",
+    "rate": "0.02056005",
+    "amount": "0.09696637",
+    "total": "0.00199363",
+    "orderNumber": 644444385673
+  },
+  {
+    "globalTradeID": 426132455,
+    "tradeID": 47560754,
+    "date": "2019-09-17 20:04:18",
+    "type": "buy",
+    "rate": "0.02060758",
+    "amount": "6.86779811",
+    "total": "0.14152869",
+    "orderNumber": 644444384674
+  },
+  {
+    "globalTradeID": 426132454,
+    "tradeID": 47560753,
+    "date": "2019-09-17 20:04:18",
+    "type": "buy",
+    "rate": "0.02060625",
+    "amount": "0.21998532",
+    "total": "0.00453307",
+    "orderNumber": 644444384674
+  },
+  {
+    "globalTradeID": 426132453,
+    "tradeID": 47560752,
+    "date": "2019-09-17 20:04:18",
+    "type": "buy",
+    "rate": "0.02060000",
+    "amount": "2.00000000",
+    "total": "0.04120000",
+    "orderNumber": 644444384674
+  },
+  {
+    "globalTradeID": 426132452,
+    "tradeID": 47560751,
+    "date": "2019-09-17 20:04:18",
+    "type": "buy",
+    "rate": "0.02060000",
+    "amount": "0.01000000",
+    "total": "0.00020600",
+    "orderNumber": 644444384674
+  },
+  {
+    "globalTradeID": 426132451,
+    "tradeID": 47560750,
+    "date": "2019-09-17 20:04:18",
+    "type": "buy",
+    "rate": "0.02059437",
+    "amount": "0.14871601",
+    "total": "0.00306271",
+    "orderNumber": 644444384674
+  },
+  {
+    "globalTradeID": 426132450,
+    "tradeID": 47560749,
+    "date": "2019-09-17 20:04:18",
+    "type": "buy",
+    "rate": "0.02059437",
+    "amount": "0.60218399",
+    "total": "0.01240159",
+    "orderNumber": 644444382676
+  },
+  {
+    "globalTradeID": 426132449,
+    "tradeID": 47560748,
+    "date": "2019-09-17 20:04:18",
+    "type": "buy",
+    "rate": "0.02058870",
+    "amount": "0.04221286",
+    "total": "0.00086910",
+    "orderNumber": 644444382676
+  },
+  {
+    "globalTradeID": 426132448,
+    "tradeID": 47560747,
+    "date": "2019-09-17 20:04:18",
+    "type": "buy",
+    "rate": "0.02057568",
+    "amount": "0.01000000",
+    "total": "0.00020575",
+    "orderNumber": 644444382676
+  },
+  {
+    "globalTradeID": 426132447,
+    "tradeID": 47560746,
+    "date": "2019-09-17 20:04:18",
+    "type": "buy",
+    "rate": "0.02057446",
+    "amount": "1.02429237",
+    "total": "0.02107426",
+    "orderNumber": 644444382676
+  },
+  {
+    "globalTradeID": 426132446,
+    "tradeID": 47560745,
+    "date": "2019-09-17 20:04:18",
+    "type": "buy",
+    "rate": "0.02057442",
+    "amount": "0.09688880",
+    "total": "0.00199343",
+    "orderNumber": 644444382676
+  },
+  {
+    "globalTradeID": 426132438,
+    "tradeID": 47560744,
+    "date": "2019-09-17 20:04:02",
+    "type": "buy",
+    "rate": "0.02057443",
+    "amount": "0.00053773",
+    "total": "0.00001106",
+    "orderNumber": 644444284774
+  },
+  {
+    "globalTradeID": 426132436,
+    "tradeID": 47560743,
+    "date": "2019-09-17 20:04:02",
+    "type": "buy",
+    "rate": "0.02057443",
+    "amount": "0.01857533",
+    "total": "0.00038217",
+    "orderNumber": 644444281777
+  },
+  {
+    "globalTradeID": 426132433,
+    "tradeID": 47560742,
+    "date": "2019-09-17 20:03:59",
+    "type": "sell",
+    "rate": "0.02055442",
+    "amount": "0.08088949",
+    "total": "0.00166263",
+    "orderNumber": 644444259799
+  },
+  {
+    "globalTradeID": 426132432,
+    "tradeID": 47560741,
+    "date": "2019-09-17 20:03:57",
+    "type": "sell",
+    "rate": "0.02056003",
+    "amount": "0.09696637",
+    "total": "0.00199363",
+    "orderNumber": 644444232826
+  },
+  {
+    "globalTradeID": 426132429,
+    "tradeID": 47560740,
+    "date": "2019-09-17 20:03:47",
+    "type": "buy",
+    "rate": "0.02056000",
+    "amount": "0.01000000",
+    "total": "0.00020560",
+    "orderNumber": 644444149909
+  },
+  {
+    "globalTradeID": 426132428,
+    "tradeID": 47560739,
+    "date": "2019-09-17 20:03:37",
+    "type": "buy",
+    "rate": "0.02055416",
+    "amount": "0.04920246",
+    "total": "0.00101131",
+    "orderNumber": 644444073985
+  },
+  {
+    "globalTradeID": 426132426,
+    "tradeID": 47560738,
+    "date": "2019-09-17 20:03:34",
+    "type": "sell",
+    "rate": "0.02054501",
+    "amount": "0.09160174",
+    "total": "0.00188195",
+    "orderNumber": 644444053006
+  },
+  {
+    "globalTradeID": 426132424,
+    "tradeID": 47560737,
+    "date": "2019-09-17 20:03:27",
+    "type": "buy",
+    "rate": "0.02053653",
+    "amount": "1.18946235",
+    "total": "0.02442742",
+    "orderNumber": 644443992067
+  },
+  {
+    "globalTradeID": 426132371,
+    "tradeID": 47560736,
+    "date": "2019-09-17 20:02:24",
+    "type": "buy",
+    "rate": "0.02053653",
+    "amount": "0.00034060",
+    "total": "0.00000699",
+    "orderNumber": 644443661398
+  },
+  {
+    "globalTradeID": 426132364,
+    "tradeID": 47560735,
+    "date": "2019-09-17 20:02:20",
+    "type": "buy",
+    "rate": "0.02053653",
+    "amount": "0.00015505",
+    "total": "0.00000318",
+    "orderNumber": 644443631428
+  },
+  {
+    "globalTradeID": 426132350,
+    "tradeID": 47560734,
+    "date": "2019-09-17 20:02:06",
+    "type": "sell",
+    "rate": "0.02053001",
+    "amount": "0.09160174",
+    "total": "0.00188058",
+    "orderNumber": 644443572487
+  },
+  {
+    "globalTradeID": 426132345,
+    "tradeID": 47560733,
+    "date": "2019-09-17 20:01:43",
+    "type": "buy",
+    "rate": "0.02053653",
+    "amount": "0.02500000",
+    "total": "0.00051341",
+    "orderNumber": 644443469590
+  },
+  {
+    "globalTradeID": 426132319,
+    "tradeID": 47560732,
+    "date": "2019-09-17 20:01:00",
+    "type": "sell",
+    "rate": "0.02052501",
+    "amount": "0.50000000",
+    "total": "0.01026250",
+    "orderNumber": 644443229830
+  },
+  {
+    "globalTradeID": 426132318,
+    "tradeID": 47560731,
+    "date": "2019-09-17 20:01:00",
+    "type": "sell",
+    "rate": "0.02052501",
+    "amount": "0.50000000",
+    "total": "0.01026250",
+    "orderNumber": 644443225834
+  },
+  {
+    "globalTradeID": 426132300,
+    "tradeID": 47560730,
+    "date": "2019-09-17 20:00:44",
+    "type": "buy",
+    "rate": "0.02051646",
+    "amount": "0.50261950",
+    "total": "0.01031197",
+    "orderNumber": 644443107952
+  },
+  {
+    "globalTradeID": 426132299,
+    "tradeID": 47560729,
+    "date": "2019-09-17 20:00:44",
+    "type": "buy",
+    "rate": "0.02051646",
+    "amount": "0.13501690",
+    "total": "0.00277006",
+    "orderNumber": 644443107952
+  },
+  {
+    "globalTradeID": 426132291,
+    "tradeID": 47560728,
+    "date": "2019-09-17 20:00:38",
+    "type": "sell",
+    "rate": "0.02050001",
+    "amount": "0.00004341",
+    "total": "0.00000088",
+    "orderNumber": 644443053007
+  },
+  {
+    "globalTradeID": 426132283,
+    "tradeID": 47560727,
+    "date": "2019-09-17 20:00:35",
+    "type": "buy",
+    "rate": "0.02050409",
+    "amount": "0.99883378",
+    "total": "0.02048017",
+    "orderNumber": 644443019041
+  },
+  {
+    "globalTradeID": 426132276,
+    "tradeID": 47560726,
+    "date": "2019-09-17 20:00:32",
+    "type": "buy",
+    "rate": "0.02050409",
+    "amount": "0.00116622",
+    "total": "0.00002391",
+    "orderNumber": 644442991069
+  },
+  {
+    "globalTradeID": 426132265,
+    "tradeID": 47560725,
+    "date": "2019-09-17 20:00:19",
+    "type": "buy",
+    "rate": "0.02050412",
+    "amount": "1.10000000",
+    "total": "0.02255453",
+    "orderNumber": 644442909151
+  },
+  {
+    "globalTradeID": 426132264,
+    "tradeID": 47560724,
+    "date": "2019-09-17 20:00:19",
+    "type": "buy",
+    "rate": "0.02050413",
+    "amount": "0.69253580",
+    "total": "0.01419984",
+    "orderNumber": 644442901159
+  },
+  {
+    "globalTradeID": 426132263,
+    "tradeID": 47560723,
+    "date": "2019-09-17 20:00:19",
+    "type": "buy",
+    "rate": "0.02050001",
+    "amount": "0.30017675",
+    "total": "0.00615362",
+    "orderNumber": 644442901159
+  },
+  {
+    "globalTradeID": 426132262,
+    "tradeID": 47560722,
+    "date": "2019-09-17 20:00:19",
+    "type": "buy",
+    "rate": "0.02049997",
+    "amount": "0.00983459",
+    "total": "0.00020160",
+    "orderNumber": 644442901159
+  },
+  {
+    "globalTradeID": 426132261,
+    "tradeID": 47560721,
+    "date": "2019-09-17 20:00:19",
+    "type": "buy",
+    "rate": "0.02049996",
+    "amount": "0.09745286",
+    "total": "0.00199777",
+    "orderNumber": 644442901159
+  },
+  {
+    "globalTradeID": 426132260,
+    "tradeID": 47560720,
+    "date": "2019-09-17 20:00:14",
+    "type": "sell",
+    "rate": "0.02050000",
+    "amount": "0.93579237",
+    "total": "0.01918374",
+    "orderNumber": 644442856204
+  },
+  {
+    "globalTradeID": 426132259,
+    "tradeID": 47560719,
+    "date": "2019-09-17 20:00:14",
+    "type": "sell",
+    "rate": "0.02050000",
+    "amount": "0.00170763",
+    "total": "0.00003500",
+    "orderNumber": 644442856204
+  },
+  {
+    "globalTradeID": 426132241,
+    "tradeID": 47560718,
+    "date": "2019-09-17 19:59:57",
+    "type": "sell",
+    "rate": "0.02050001",
+    "amount": "0.18850000",
+    "total": "0.00386425",
+    "orderNumber": 644442760300
+  },
+  {
+    "globalTradeID": 426132197,
+    "tradeID": 47560717,
+    "date": "2019-09-17 19:58:50",
+    "type": "buy",
+    "rate": "0.02050468",
+    "amount": "0.00336772",
+    "total": "0.00006905",
+    "orderNumber": 644442503557
+  },
+  {
+    "globalTradeID": 426132195,
+    "tradeID": 47560716,
+    "date": "2019-09-17 19:58:45",
+    "type": "sell",
+    "rate": "0.02050000",
+    "amount": "0.08170000",
+    "total": "0.00167485",
+    "orderNumber": 644442465595
+  },
+  {
+    "globalTradeID": 426132172,
+    "tradeID": 47560715,
+    "date": "2019-09-17 19:57:13",
+    "type": "sell",
+    "rate": "0.02050000",
+    "amount": "0.00000099",
+    "total": "0.00000002",
+    "orderNumber": 644442052009
+  },
+  {
+    "globalTradeID": 426132171,
+    "tradeID": 47560714,
+    "date": "2019-09-17 19:57:13",
+    "type": "sell",
+    "rate": "0.02050000",
+    "amount": "0.02500000",
+    "total": "0.00051250",
+    "orderNumber": 644442048013
+  },
+  {
+    "globalTradeID": 426132170,
+    "tradeID": 47560713,
+    "date": "2019-09-17 19:57:13",
+    "type": "sell",
+    "rate": "0.02050000",
+    "amount": "0.00018097",
+    "total": "0.00000370",
+    "orderNumber": 644442045016
+  },
+  {
+    "globalTradeID": 426132159,
+    "tradeID": 47560712,
+    "date": "2019-09-17 19:57:04",
+    "type": "buy",
+    "rate": "0.02050489",
+    "amount": "0.00077788",
+    "total": "0.00001595",
+    "orderNumber": 644442000061
+  },
+  {
+    "globalTradeID": 426132155,
+    "tradeID": 47560711,
+    "date": "2019-09-17 19:57:02",
+    "type": "sell",
+    "rate": "0.02050000",
+    "amount": "0.00006439",
+    "total": "0.00000131",
+    "orderNumber": 644441997064
+  },
+  {
+    "globalTradeID": 426132152,
+    "tradeID": 47560710,
+    "date": "2019-09-17 19:57:01",
+    "type": "sell",
+    "rate": "0.02050000",
+    "amount": "0.00029707",
+    "total": "0.00000608",
+    "orderNumber": 644441984077
+  },
+  {
+    "globalTradeID": 426132099,
+    "tradeID": 47560709,
+    "date": "2019-09-17 19:55:38",
+    "type": "sell",
+    "rate": "0.02050010",
+    "amount": "0.11570008",
+    "total": "0.00237186",
+    "orderNumber": 644441629432
+  },
+  {
+    "globalTradeID": 426132098,
+    "tradeID": 47560708,
+    "date": "2019-09-17 19:55:38",
+    "type": "sell",
+    "rate": "0.02050010",
+    "amount": "0.09753088",
+    "total": "0.00199939",
+    "orderNumber": 644441629432
+  },
+  {
+    "globalTradeID": 426132088,
+    "tradeID": 47560707,
+    "date": "2019-09-17 19:55:21",
+    "type": "buy",
+    "rate": "0.02050500",
+    "amount": "0.00003052",
+    "total": "0.00000062",
+    "orderNumber": 644441547514
+  },
+  {
+    "globalTradeID": 426132080,
+    "tradeID": 47560706,
+    "date": "2019-09-17 19:55:09",
+    "type": "buy",
+    "rate": "0.02050944",
+    "amount": "2.73536472",
+    "total": "0.05610079",
+    "orderNumber": 644441514547
+  },
+  {
+    "globalTradeID": 426132079,
+    "tradeID": 47560705,
+    "date": "2019-09-17 19:55:09",
+    "type": "buy",
+    "rate": "0.02050943",
+    "amount": "4.28247810",
+    "total": "0.08783118",
+    "orderNumber": 644441514547
+  },
+  {
+    "globalTradeID": 426132065,
+    "tradeID": 47560704,
+    "date": "2019-09-17 19:54:26",
+    "type": "buy",
+    "rate": "0.02050000",
+    "amount": "0.00812212",
+    "total": "0.00016650",
+    "orderNumber": 644441310751
+  },
+  {
+    "globalTradeID": 426132042,
+    "tradeID": 47560703,
+    "date": "2019-09-17 19:53:34",
+    "type": "buy",
+    "rate": "0.02050000",
+    "amount": "2.99174500",
+    "total": "0.06133077",
+    "orderNumber": 644440984078
+  },
+  {
+    "globalTradeID": 426132041,
+    "tradeID": 47560702,
+    "date": "2019-09-17 19:53:34",
+    "type": "buy",
+    "rate": "0.02049797",
+    "amount": "5.00000000",
+    "total": "0.10248985",
+    "orderNumber": 644440984078
+  },
+  {
+    "globalTradeID": 426132040,
+    "tradeID": 47560701,
+    "date": "2019-09-17 19:53:34",
+    "type": "buy",
+    "rate": "0.02049640",
+    "amount": "1.65825500",
+    "total": "0.03398825",
+    "orderNumber": 644440984078
+  },
+  {
+    "globalTradeID": 426132039,
+    "tradeID": 47560700,
+    "date": "2019-09-17 19:53:34",
+    "type": "buy",
+    "rate": "0.02049380",
+    "amount": "0.05000000",
+    "total": "0.00102469",
+    "orderNumber": 644440984078
+  },
+  {
+    "globalTradeID": 426132038,
+    "tradeID": 47560699,
+    "date": "2019-09-17 19:53:33",
+    "type": "buy",
+    "rate": "0.02049000",
+    "amount": "0.02980062",
+    "total": "0.00061061",
+    "orderNumber": 644440974088
+  },
+  {
+    "globalTradeID": 426132010,
+    "tradeID": 47560698,
+    "date": "2019-09-17 19:53:23",
+    "type": "buy",
+    "rate": "0.02047385",
+    "amount": "1.32929681",
+    "total": "0.02721582",
+    "orderNumber": 644440889173
+  },
+  {
+    "globalTradeID": 426132005,
+    "tradeID": 47560697,
+    "date": "2019-09-17 19:52:35",
+    "type": "buy",
+    "rate": "0.02045845",
+    "amount": "0.09780487",
+    "total": "0.00200093",
+    "orderNumber": 644440527535
+  },
+  {
+    "globalTradeID": 426131975,
+    "tradeID": 47560696,
+    "date": "2019-09-17 19:52:14",
+    "type": "sell",
+    "rate": "0.02048497",
+    "amount": "0.07548324",
+    "total": "0.00154627",
+    "orderNumber": 644440343719
+  },
+  {
+    "globalTradeID": 426131974,
+    "tradeID": 47560695,
+    "date": "2019-09-17 19:52:14",
+    "type": "sell",
+    "rate": "0.02048497",
+    "amount": "1.33550041",
+    "total": "0.02735768",
+    "orderNumber": 644440342720
+  },
+  {
+    "globalTradeID": 426131973,
+    "tradeID": 47560694,
+    "date": "2019-09-17 19:52:14",
+    "type": "sell",
+    "rate": "0.02048500",
+    "amount": "0.09759959",
+    "total": "0.00199932",
+    "orderNumber": 644440342720
+  },
+  {
+    "globalTradeID": 426131970,
+    "tradeID": 47560693,
+    "date": "2019-09-17 19:52:12",
+    "type": "buy",
+    "rate": "0.02048697",
+    "amount": "0.02000000",
+    "total": "0.00040973",
+    "orderNumber": 644440326736
+  },
+  {
+    "globalTradeID": 426131966,
+    "tradeID": 47560692,
+    "date": "2019-09-17 19:52:07",
+    "type": "sell",
+    "rate": "0.02048500",
+    "amount": "0.00001269",
+    "total": "0.00000025",
+    "orderNumber": 644440291771
+  },
+  {
+    "globalTradeID": 426131965,
+    "tradeID": 47560691,
+    "date": "2019-09-17 19:52:06",
+    "type": "buy",
+    "rate": "0.02049000",
+    "amount": "0.00153455",
+    "total": "0.00003144",
+    "orderNumber": 644440284778
+  },
+  {
+    "globalTradeID": 426131960,
+    "tradeID": 47560690,
+    "date": "2019-09-17 19:52:04",
+    "type": "buy",
+    "rate": "0.02049000",
+    "amount": "0.00047782",
+    "total": "0.00000979",
+    "orderNumber": 644440271791
+  },
+  {
+    "globalTradeID": 426131946,
+    "tradeID": 47560689,
+    "date": "2019-09-17 19:51:37",
+    "type": "buy",
+    "rate": "0.02049000",
+    "amount": "0.00005299",
+    "total": "0.00000108",
+    "orderNumber": 644440187875
+  },
+  {
+    "globalTradeID": 426131938,
+    "tradeID": 47560688,
+    "date": "2019-09-17 19:50:56",
+    "type": "sell",
+    "rate": "0.02048531",
+    "amount": "0.05078437",
+    "total": "0.00104033",
+    "orderNumber": 644440063000
+  },
+  {
+    "globalTradeID": 426131933,
+    "tradeID": 47560687,
+    "date": "2019-09-17 19:50:40",
+    "type": "buy",
+    "rate": "0.02048497",
+    "amount": "1.02983028",
+    "total": "0.02109604",
+    "orderNumber": 644439921142
+  },
+  {
+    "globalTradeID": 426131923,
+    "tradeID": 47560686,
+    "date": "2019-09-17 19:50:28",
+    "type": "buy",
+    "rate": "0.02048497",
+    "amount": "0.00006845",
+    "total": "0.00000140",
+    "orderNumber": 644439846217
+  },
+  {
+    "globalTradeID": 426131921,
+    "tradeID": 47560685,
+    "date": "2019-09-17 19:50:27",
+    "type": "buy",
+    "rate": "0.02048497",
+    "amount": "0.00111667",
+    "total": "0.00002287",
+    "orderNumber": 644439835228
+  },
+  {
+    "globalTradeID": 426131914,
+    "tradeID": 47560684,
+    "date": "2019-09-17 19:50:24",
+    "type": "sell",
+    "rate": "0.02048033",
+    "amount": "0.00004638",
+    "total": "0.00000094",
+    "orderNumber": 644439812251
+  },
+  {
+    "globalTradeID": 426131898,
+    "tradeID": 47560683,
+    "date": "2019-09-17 19:50:01",
+    "type": "buy",
+    "rate": "0.02047633",
+    "amount": "1.46051233",
+    "total": "0.02990593",
+    "orderNumber": 644439644419
+  },
+  {
+    "globalTradeID": 426131897,
+    "tradeID": 47560682,
+    "date": "2019-09-17 19:50:01",
+    "type": "buy",
+    "rate": "0.02047633",
+    "amount": "1.23673644",
+    "total": "0.02532382",
+    "orderNumber": 644439644419
+  },
+  {
+    "globalTradeID": 426131865,
+    "tradeID": 47560681,
+    "date": "2019-09-17 19:48:48",
+    "type": "sell",
+    "rate": "0.02047009",
+    "amount": "0.00001416",
+    "total": "0.00000028",
+    "orderNumber": 644439137926
+  },
+  {
+    "globalTradeID": 426131857,
+    "tradeID": 47560680,
+    "date": "2019-09-17 19:48:44",
+    "type": "buy",
+    "rate": "0.02047633",
+    "amount": "0.00230358",
+    "total": "0.00004716",
+    "orderNumber": 644439106957
+  },
+  {
+    "globalTradeID": 426131856,
+    "tradeID": 47560679,
+    "date": "2019-09-17 19:48:44",
+    "type": "buy",
+    "rate": "0.02047633",
+    "amount": "0.01812580",
+    "total": "0.00037114",
+    "orderNumber": 644439102961
+  },
+  {
+    "globalTradeID": 426131853,
+    "tradeID": 47560678,
+    "date": "2019-09-17 19:48:43",
+    "type": "buy",
+    "rate": "0.02047633",
+    "amount": "0.00185718",
+    "total": "0.00003802",
+    "orderNumber": 644439086977
+  },
+  {
+    "globalTradeID": 426131852,
+    "tradeID": 47560677,
+    "date": "2019-09-17 19:48:42",
+    "type": "buy",
+    "rate": "0.02046877",
+    "amount": "0.34641961",
+    "total": "0.00709078",
+    "orderNumber": 644439077986
+  },
+  {
+    "globalTradeID": 426131851,
+    "tradeID": 47560676,
+    "date": "2019-09-17 19:48:42",
+    "type": "buy",
+    "rate": "0.02046630",
+    "amount": "0.63709670",
+    "total": "0.01303901",
+    "orderNumber": 644439077986
+  },
+  {
+    "globalTradeID": 426131850,
+    "tradeID": 47560675,
+    "date": "2019-09-17 19:48:41",
+    "type": "sell",
+    "rate": "0.02046619",
+    "amount": "0.00000390",
+    "total": "0.00000007",
+    "orderNumber": 644439072991
+  },
+  {
+    "globalTradeID": 426131848,
+    "tradeID": 47560674,
+    "date": "2019-09-17 19:48:39",
+    "type": "sell",
+    "rate": "0.02046615",
+    "amount": "0.00045734",
+    "total": "0.00000935",
+    "orderNumber": 644439060004
+  },
+  {
+    "globalTradeID": 426131834,
+    "tradeID": 47560673,
+    "date": "2019-09-17 19:47:23",
+    "type": "buy",
+    "rate": "0.02046629",
+    "amount": "5.70832258",
+    "total": "0.11682818",
+    "orderNumber": 644438485579
+  },
+  {
+    "globalTradeID": 426131828,
+    "tradeID": 47560672,
+    "date": "2019-09-17 19:47:12",
+    "type": "buy",
+    "rate": "0.02046500",
+    "amount": "23.07190000",
+    "total": "0.47216643",
+    "orderNumber": 644438416648
+  },
+  {
+    "globalTradeID": 426131827,
+    "tradeID": 47560671,
+    "date": "2019-09-17 19:47:12",
+    "type": "buy",
+    "rate": "0.02045500",
+    "amount": "0.14747364",
+    "total": "0.00301657",
+    "orderNumber": 644438416648
+  },
+  {
+    "globalTradeID": 426131821,
+    "tradeID": 47560670,
+    "date": "2019-09-17 19:47:05",
+    "type": "buy",
+    "rate": "0.02045500",
+    "amount": "0.00003210",
+    "total": "0.00000065",
+    "orderNumber": 644438380684
+  },
+  {
+    "globalTradeID": 426131819,
+    "tradeID": 47560669,
+    "date": "2019-09-17 19:47:04",
+    "type": "buy",
+    "rate": "0.02045500",
+    "amount": "0.00382631",
+    "total": "0.00007826",
+    "orderNumber": 644438377687
+  },
+  {
+    "globalTradeID": 426131818,
+    "tradeID": 47560668,
+    "date": "2019-09-17 19:47:04",
+    "type": "buy",
+    "rate": "0.02045500",
+    "amount": "0.00000096",
+    "total": "0.00000001",
+    "orderNumber": 644438372692
+  },
+  {
+    "globalTradeID": 426131811,
+    "tradeID": 47560667,
+    "date": "2019-09-17 19:47:01",
+    "type": "buy",
+    "rate": "0.02045500",
+    "amount": "0.03194584",
+    "total": "0.00065345",
+    "orderNumber": 644438355709
+  },
+  {
+    "globalTradeID": 426131805,
+    "tradeID": 47560666,
+    "date": "2019-09-17 19:46:56",
+    "type": "buy",
+    "rate": "0.02045500",
+    "amount": "0.00018367",
+    "total": "0.00000375",
+    "orderNumber": 644438324740
+  },
+  {
+    "globalTradeID": 426131753,
+    "tradeID": 47560665,
+    "date": "2019-09-17 19:45:19",
+    "type": "buy",
+    "rate": "0.02046342",
+    "amount": "0.00459026",
+    "total": "0.00009393",
+    "orderNumber": 644437914151
+  },
+  {
+    "globalTradeID": 426131752,
+    "tradeID": 47560664,
+    "date": "2019-09-17 19:45:19",
+    "type": "buy",
+    "rate": "0.02043538",
+    "amount": "0.00624369",
+    "total": "0.00012759",
+    "orderNumber": 644437914151
+  },
+  {
+    "globalTradeID": 426131751,
+    "tradeID": 47560663,
+    "date": "2019-09-17 19:45:19",
+    "type": "buy",
+    "rate": "0.02043538",
+    "amount": "0.00008606",
+    "total": "0.00000175",
+    "orderNumber": 644437910155
+  },
+  {
+    "globalTradeID": 426131747,
+    "tradeID": 47560662,
+    "date": "2019-09-17 19:45:15",
+    "type": "sell",
+    "rate": "0.02043422",
+    "amount": "0.00028236",
+    "total": "0.00000576",
+    "orderNumber": 644437885180
+  },
+  {
+    "globalTradeID": 426131742,
+    "tradeID": 47560661,
+    "date": "2019-09-17 19:44:49",
+    "type": "buy",
+    "rate": "0.02043538",
+    "amount": "4.17000000",
+    "total": "0.08521553",
+    "orderNumber": 644437732333
+  },
+  {
+    "globalTradeID": 426131716,
+    "tradeID": 47560660,
+    "date": "2019-09-17 19:43:39",
+    "type": "buy",
+    "rate": "0.02043538",
+    "amount": "0.00040918",
+    "total": "0.00000836",
+    "orderNumber": 644437402663
+  },
+  {
+    "globalTradeID": 426131713,
+    "tradeID": 47560659,
+    "date": "2019-09-17 19:43:38",
+    "type": "buy",
+    "rate": "0.02043538",
+    "amount": "0.00006357",
+    "total": "0.00000129",
+    "orderNumber": 644437393672
+  },
+  {
+    "globalTradeID": 426131654,
+    "tradeID": 47560658,
+    "date": "2019-09-17 19:42:00",
+    "type": "buy",
+    "rate": "0.02043538",
+    "amount": "0.00003857",
+    "total": "0.00000078",
+    "orderNumber": 644436808258
+  },
+  {
+    "globalTradeID": 426131652,
+    "tradeID": 47560657,
+    "date": "2019-09-17 19:41:59",
+    "type": "buy",
+    "rate": "0.02043538",
+    "amount": "0.00322738",
+    "total": "0.00006595",
+    "orderNumber": 644436802264
+  },
+  {
+    "globalTradeID": 426131651,
+    "tradeID": 47560656,
+    "date": "2019-09-17 19:41:58",
+    "type": "buy",
+    "rate": "0.02043538",
+    "amount": "0.00006721",
+    "total": "0.00000137",
+    "orderNumber": 644436796270
+  },
+  {
+    "globalTradeID": 426131587,
+    "tradeID": 47560655,
+    "date": "2019-09-17 19:38:46",
+    "type": "buy",
+    "rate": "0.02043499",
+    "amount": "0.00360604",
+    "total": "0.00007368",
+    "orderNumber": 644435888179
+  },
+  {
+    "globalTradeID": 426131586,
+    "tradeID": 47560654,
+    "date": "2019-09-17 19:38:46",
+    "type": "buy",
+    "rate": "0.02043499",
+    "amount": "0.00117862",
+    "total": "0.00002408",
+    "orderNumber": 644435880187
+  },
+  {
+    "globalTradeID": 426131532,
+    "tradeID": 47560653,
+    "date": "2019-09-17 19:37:07",
+    "type": "buy",
+    "rate": "0.02043999",
+    "amount": "0.00002577",
+    "total": "0.00000052",
+    "orderNumber": 644435577490
+  },
+  {
+    "globalTradeID": 426131528,
+    "tradeID": 47560652,
+    "date": "2019-09-17 19:37:06",
+    "type": "buy",
+    "rate": "0.02043999",
+    "amount": "0.00088967",
+    "total": "0.00001818",
+    "orderNumber": 644435570497
+  },
+  {
+    "globalTradeID": 426131525,
+    "tradeID": 47560651,
+    "date": "2019-09-17 19:37:05",
+    "type": "sell",
+    "rate": "0.02043538",
+    "amount": "0.00018056",
+    "total": "0.00000368",
+    "orderNumber": 644435567500
+  },
+  {
+    "globalTradeID": 426131520,
+    "tradeID": 47560650,
+    "date": "2019-09-17 19:36:45",
+    "type": "buy",
+    "rate": "0.02043999",
+    "amount": "0.52448509",
+    "total": "0.01072046",
+    "orderNumber": 644435535532
+  },
+  {
+    "globalTradeID": 426131460,
+    "tradeID": 47560649,
+    "date": "2019-09-17 19:35:28",
+    "type": "buy",
+    "rate": "0.02043999",
+    "amount": "0.00028459",
+    "total": "0.00000581",
+    "orderNumber": 644435151916
+  },
+  {
+    "globalTradeID": 426131459,
+    "tradeID": 47560648,
+    "date": "2019-09-17 19:35:28",
+    "type": "buy",
+    "rate": "0.02043999",
+    "amount": "0.00284326",
+    "total": "0.00005811",
+    "orderNumber": 644435149918
+  },
+  {
+    "globalTradeID": 426131457,
+    "tradeID": 47560647,
+    "date": "2019-09-17 19:35:11",
+    "type": "sell",
+    "rate": "0.02043096",
+    "amount": "0.70454372",
+    "total": "0.01439450",
+    "orderNumber": 644435046022
+  },
+  {
+    "globalTradeID": 426131423,
+    "tradeID": 47560646,
+    "date": "2019-09-17 19:33:52",
+    "type": "buy",
+    "rate": "0.02044499",
+    "amount": "0.00343638",
+    "total": "0.00007025",
+    "orderNumber": 644434675393
+  },
+  {
+    "globalTradeID": 426131411,
+    "tradeID": 47560645,
+    "date": "2019-09-17 19:33:23",
+    "type": "buy",
+    "rate": "0.02045796",
+    "amount": "0.31229676",
+    "total": "0.00638895",
+    "orderNumber": 644434491577
+  },
+  {
+    "globalTradeID": 426131380,
+    "tradeID": 47560644,
+    "date": "2019-09-17 19:32:13",
+    "type": "buy",
+    "rate": "0.02044000",
+    "amount": "0.00007970",
+    "total": "0.00000162",
+    "orderNumber": 644434192876
+  },
+  {
+    "globalTradeID": 426131365,
+    "tradeID": 47560643,
+    "date": "2019-09-17 19:31:16",
+    "type": "buy",
+    "rate": "0.02043358",
+    "amount": "4.89083414",
+    "total": "0.09993725",
+    "orderNumber": 644433936133
+  },
+  {
+    "globalTradeID": 426131360,
+    "tradeID": 47560642,
+    "date": "2019-09-17 19:31:11",
+    "type": "sell",
+    "rate": "0.02042749",
+    "amount": "0.63277973",
+    "total": "0.01292610",
+    "orderNumber": 644433898171
+  },
+  {
+    "globalTradeID": 426131340,
+    "tradeID": 47560641,
+    "date": "2019-09-17 19:30:35",
+    "type": "buy",
+    "rate": "0.02045500",
+    "amount": "0.00011666",
+    "total": "0.00000238",
+    "orderNumber": 644433621448
+  },
+  {
+    "globalTradeID": 426131337,
+    "tradeID": 47560640,
+    "date": "2019-09-17 19:30:12",
+    "type": "buy",
+    "rate": "0.02046500",
+    "amount": "0.05005843",
+    "total": "0.00102444",
+    "orderNumber": 644433494575
+  },
+  {
+    "globalTradeID": 426131336,
+    "tradeID": 47560639,
+    "date": "2019-09-17 19:30:10",
+    "type": "sell",
+    "rate": "0.02046003",
+    "amount": "0.01667345",
+    "total": "0.00034113",
+    "orderNumber": 644433485584
+  },
+  {
+    "globalTradeID": 426131332,
+    "tradeID": 47560638,
+    "date": "2019-09-17 19:29:55",
+    "type": "buy",
+    "rate": "0.02044623",
+    "amount": "0.84847570",
+    "total": "0.01734812",
+    "orderNumber": 644433378691
+  },
+  {
+    "globalTradeID": 426131291,
+    "tradeID": 47560637,
+    "date": "2019-09-17 19:28:59",
+    "type": "buy",
+    "rate": "0.02044150",
+    "amount": "0.14687139",
+    "total": "0.00300227",
+    "orderNumber": 644433021049
+  },
+  {
+    "globalTradeID": 426131200,
+    "tradeID": 47560636,
+    "date": "2019-09-17 19:27:21",
+    "type": "buy",
+    "rate": "0.02042452",
+    "amount": "0.00003739",
+    "total": "0.00000076",
+    "orderNumber": 644432554516
+  },
+  {
+    "globalTradeID": 426131127,
+    "tradeID": 47560635,
+    "date": "2019-09-17 19:25:45",
+    "type": "sell",
+    "rate": "0.02040501",
+    "amount": "3.98326611",
+    "total": "0.08127858",
+    "orderNumber": 644432089981
+  },
+  {
+    "globalTradeID": 426131126,
+    "tradeID": 47560634,
+    "date": "2019-09-17 19:25:45",
+    "type": "sell",
+    "rate": "0.02040502",
+    "amount": "0.11673389",
+    "total": "0.00238195",
+    "orderNumber": 644432089981
+  },
+  {
+    "globalTradeID": 426131125,
+    "tradeID": 47560633,
+    "date": "2019-09-17 19:25:44",
+    "type": "buy",
+    "rate": "0.02041500",
+    "amount": "0.00243221",
+    "total": "0.00004965",
+    "orderNumber": 644432087983
+  },
+  {
+    "globalTradeID": 426131096,
+    "tradeID": 47560632,
+    "date": "2019-09-17 19:24:07",
+    "type": "buy",
+    "rate": "0.02042000",
+    "amount": "0.00014224",
+    "total": "0.00000290",
+    "orderNumber": 644431809262
+  },
+  {
+    "globalTradeID": 426131046,
+    "tradeID": 47560631,
+    "date": "2019-09-17 19:22:31",
+    "type": "buy",
+    "rate": "0.02040500",
+    "amount": "0.00000610",
+    "total": "0.00000012",
+    "orderNumber": 644431452619
+  },
+  {
+    "globalTradeID": 426131044,
+    "tradeID": 47560630,
+    "date": "2019-09-17 19:22:29",
+    "type": "buy",
+    "rate": "0.02040500",
+    "amount": "0.02450380",
+    "total": "0.00050000",
+    "orderNumber": 644431446625
+  },
+  {
+    "globalTradeID": 426131042,
+    "tradeID": 47560629,
+    "date": "2019-09-17 19:22:24",
+    "type": "sell",
+    "rate": "0.02039077",
+    "amount": "0.01874176",
+    "total": "0.00038215",
+    "orderNumber": 644431413658
+  },
+  {
+    "globalTradeID": 426131019,
+    "tradeID": 47560628,
+    "date": "2019-09-17 19:21:19",
+    "type": "buy",
+    "rate": "0.02039735",
+    "amount": "10.00000000",
+    "total": "0.20397350",
+    "orderNumber": 644431010062
+  },
+  {
+    "globalTradeID": 426131018,
+    "tradeID": 47560627,
+    "date": "2019-09-17 19:21:19",
+    "type": "buy",
+    "rate": "0.02039512",
+    "amount": "3.51940108",
+    "total": "0.07177860",
+    "orderNumber": 644431010062
+  },
+  {
+    "globalTradeID": 426131005,
+    "tradeID": 47560626,
+    "date": "2019-09-17 19:20:50",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "7.08867573",
+    "total": "0.14446735",
+    "orderNumber": 644430798274
+  },
+  {
+    "globalTradeID": 426130969,
+    "tradeID": 47560625,
+    "date": "2019-09-17 19:19:21",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.00072078",
+    "total": "0.00001468",
+    "orderNumber": 644430564508
+  },
+  {
+    "globalTradeID": 426130968,
+    "tradeID": 47560624,
+    "date": "2019-09-17 19:19:21",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.00000098",
+    "total": "0.00000001",
+    "orderNumber": 644430562510
+  },
+  {
+    "globalTradeID": 426130967,
+    "tradeID": 47560623,
+    "date": "2019-09-17 19:19:20",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.00002853",
+    "total": "0.00000058",
+    "orderNumber": 644430559513
+  },
+  {
+    "globalTradeID": 426130929,
+    "tradeID": 47560622,
+    "date": "2019-09-17 19:18:42",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.05058189",
+    "total": "0.00103085",
+    "orderNumber": 644430438634
+  },
+  {
+    "globalTradeID": 426130925,
+    "tradeID": 47560621,
+    "date": "2019-09-17 19:18:24",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.05881790",
+    "total": "0.00119870",
+    "orderNumber": 644430342730
+  },
+  {
+    "globalTradeID": 426130922,
+    "tradeID": 47560620,
+    "date": "2019-09-17 19:18:09",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "1.19000000",
+    "total": "0.02425222",
+    "orderNumber": 644430247825
+  },
+  {
+    "globalTradeID": 426130921,
+    "tradeID": 47560619,
+    "date": "2019-09-17 19:18:05",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.41335455",
+    "total": "0.00842417",
+    "orderNumber": 644430214858
+  },
+  {
+    "globalTradeID": 426130920,
+    "tradeID": 47560618,
+    "date": "2019-09-17 19:18:05",
+    "type": "buy",
+    "rate": "0.02038000",
+    "amount": "0.77664545",
+    "total": "0.01582803",
+    "orderNumber": 644430214858
+  },
+  {
+    "globalTradeID": 426130916,
+    "tradeID": 47560617,
+    "date": "2019-09-17 19:17:47",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.00004050",
+    "total": "0.00000082",
+    "orderNumber": 644430092980
+  },
+  {
+    "globalTradeID": 426130910,
+    "tradeID": 47560616,
+    "date": "2019-09-17 19:17:44",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.00000098",
+    "total": "0.00000001",
+    "orderNumber": 644430076996
+  },
+  {
+    "globalTradeID": 426130906,
+    "tradeID": 47560615,
+    "date": "2019-09-17 19:17:32",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.00000098",
+    "total": "0.00000001",
+    "orderNumber": 644430020053
+  },
+  {
+    "globalTradeID": 426130881,
+    "tradeID": 47560614,
+    "date": "2019-09-17 19:16:08",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.00007816",
+    "total": "0.00000159",
+    "orderNumber": 644429593480
+  },
+  {
+    "globalTradeID": 426130880,
+    "tradeID": 47560613,
+    "date": "2019-09-17 19:16:08",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.00001660",
+    "total": "0.00000033",
+    "orderNumber": 644429588485
+  },
+  {
+    "globalTradeID": 426130859,
+    "tradeID": 47560612,
+    "date": "2019-09-17 19:15:05",
+    "type": "buy",
+    "rate": "0.02038000",
+    "amount": "1.19000000",
+    "total": "0.02425220",
+    "orderNumber": 644429161912
+  },
+  {
+    "globalTradeID": 426130850,
+    "tradeID": 47560611,
+    "date": "2019-09-17 19:14:56",
+    "type": "buy",
+    "rate": "0.02037500",
+    "amount": "1.19000000",
+    "total": "0.02424625",
+    "orderNumber": 644429089984
+  },
+  {
+    "globalTradeID": 426130849,
+    "tradeID": 47560610,
+    "date": "2019-09-17 19:14:52",
+    "type": "buy",
+    "rate": "0.02038000",
+    "amount": "1.19000000",
+    "total": "0.02425220",
+    "orderNumber": 644429060014
+  },
+  {
+    "globalTradeID": 426130846,
+    "tradeID": 47560609,
+    "date": "2019-09-17 19:14:44",
+    "type": "buy",
+    "rate": "0.02038000",
+    "amount": "0.63996957",
+    "total": "0.01304257",
+    "orderNumber": 644429030044
+  },
+  {
+    "globalTradeID": 426130845,
+    "tradeID": 47560608,
+    "date": "2019-09-17 19:14:44",
+    "type": "buy",
+    "rate": "0.02038000",
+    "amount": "0.55003043",
+    "total": "0.01120962",
+    "orderNumber": 644429030044
+  },
+  {
+    "globalTradeID": 426130839,
+    "tradeID": 47560607,
+    "date": "2019-09-17 19:14:32",
+    "type": "sell",
+    "rate": "0.02038000",
+    "amount": "0.44996957",
+    "total": "0.00917037",
+    "orderNumber": 644429006068
+  },
+  {
+    "globalTradeID": 426130836,
+    "tradeID": 47560606,
+    "date": "2019-09-17 19:14:32",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "1.19000000",
+    "total": "0.02425222",
+    "orderNumber": 644429005069
+  },
+  {
+    "globalTradeID": 426130834,
+    "tradeID": 47560605,
+    "date": "2019-09-17 19:14:31",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.00717744",
+    "total": "0.00014627",
+    "orderNumber": 644429001073
+  },
+  {
+    "globalTradeID": 426130833,
+    "tradeID": 47560604,
+    "date": "2019-09-17 19:14:30",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.00012043",
+    "total": "0.00000245",
+    "orderNumber": 644428995079
+  },
+  {
+    "globalTradeID": 426130832,
+    "tradeID": 47560603,
+    "date": "2019-09-17 19:14:30",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "0.00038455",
+    "total": "0.00000783",
+    "orderNumber": 644428994080
+  },
+  {
+    "globalTradeID": 426130826,
+    "tradeID": 47560602,
+    "date": "2019-09-17 19:14:27",
+    "type": "buy",
+    "rate": "0.02038002",
+    "amount": "1.19000000",
+    "total": "0.02425222",
+    "orderNumber": 644428981093
+  },
+  {
+    "globalTradeID": 426130785,
+    "tradeID": 47560601,
+    "date": "2019-09-17 19:12:54",
+    "type": "buy",
+    "rate": "0.02038016",
+    "amount": "0.00001874",
+    "total": "0.00000038",
+    "orderNumber": 644428688386
+  },
+  {
+    "globalTradeID": 426130784,
+    "tradeID": 47560600,
+    "date": "2019-09-17 19:12:53",
+    "type": "buy",
+    "rate": "0.02038016",
+    "amount": "0.00043362",
+    "total": "0.00000883",
+    "orderNumber": 644428687387
+  },
+  {
+    "globalTradeID": 426130783,
+    "tradeID": 47560599,
+    "date": "2019-09-17 19:12:53",
+    "type": "buy",
+    "rate": "0.02038016",
+    "amount": "0.00388434",
+    "total": "0.00007916",
+    "orderNumber": 644428686388
+  },
+  {
+    "globalTradeID": 426130775,
+    "tradeID": 47560598,
+    "date": "2019-09-17 19:12:31",
+    "type": "sell",
+    "rate": "0.02038001",
+    "amount": "0.00539745",
+    "total": "0.00011000",
+    "orderNumber": 644428579495
+  },
+  {
+    "globalTradeID": 426130750,
+    "tradeID": 47560597,
+    "date": "2019-09-17 19:11:18",
+    "type": "sell",
+    "rate": "0.02036004",
+    "amount": "0.00000343",
+    "total": "0.00000006",
+    "orderNumber": 644428135939
+  },
+  {
+    "globalTradeID": 426130749,
+    "tradeID": 47560596,
+    "date": "2019-09-17 19:11:18",
+    "type": "sell",
+    "rate": "0.02036003",
+    "amount": "0.00026080",
+    "total": "0.00000530",
+    "orderNumber": 644428131943
+  },
+  {
+    "globalTradeID": 426130742,
+    "tradeID": 47560595,
+    "date": "2019-09-17 19:11:14",
+    "type": "sell",
+    "rate": "0.02035501",
+    "amount": "0.00006976",
+    "total": "0.00000141",
+    "orderNumber": 644428084990
+  },
+  {
+    "globalTradeID": 426130732,
+    "tradeID": 47560594,
+    "date": "2019-09-17 19:10:17",
+    "type": "buy",
+    "rate": "0.02038000",
+    "amount": "1.19000000",
+    "total": "0.02425220",
+    "orderNumber": 644427759316
+  },
+  {
+    "globalTradeID": 426130731,
+    "tradeID": 47560593,
+    "date": "2019-09-17 19:10:13",
+    "type": "buy",
+    "rate": "0.02038000",
+    "amount": "1.19000000",
+    "total": "0.02425220",
+    "orderNumber": 644427737338
+  },
+  {
+    "globalTradeID": 426130729,
+    "tradeID": 47560592,
+    "date": "2019-09-17 19:10:10",
+    "type": "buy",
+    "rate": "0.02038388",
+    "amount": "0.98698198",
+    "total": "0.02011852",
+    "orderNumber": 644427711364
+  },
+  {
+    "globalTradeID": 426130728,
+    "tradeID": 47560591,
+    "date": "2019-09-17 19:10:10",
+    "type": "buy",
+    "rate": "0.02038387",
+    "amount": "0.20301802",
+    "total": "0.00413829",
+    "orderNumber": 644427711364
+  },
+  {
+    "globalTradeID": 426130720,
+    "tradeID": 47560590,
+    "date": "2019-09-17 19:09:47",
+    "type": "sell",
+    "rate": "0.02037568",
+    "amount": "0.56788687",
+    "total": "0.01157108",
+    "orderNumber": 644427562513
+  },
+  {
+    "globalTradeID": 426130719,
+    "tradeID": 47560589,
+    "date": "2019-09-17 19:09:47",
+    "type": "sell",
+    "rate": "0.02038870",
+    "amount": "0.02366410",
+    "total": "0.00048248",
+    "orderNumber": 644427562513
+  },
+  {
+    "globalTradeID": 426130709,
+    "tradeID": 47560588,
+    "date": "2019-09-17 19:09:39",
+    "type": "sell",
+    "rate": "0.02038870",
+    "amount": "0.00058807",
+    "total": "0.00001198",
+    "orderNumber": 644427520555
+  },
+  {
+    "globalTradeID": 426130706,
+    "tradeID": 47560587,
+    "date": "2019-09-17 19:09:36",
+    "type": "buy",
+    "rate": "0.02038999",
+    "amount": "0.00809899",
+    "total": "0.00016513",
+    "orderNumber": 644427509566
+  },
+  {
+    "globalTradeID": 426130705,
+    "tradeID": 47560586,
+    "date": "2019-09-17 19:09:36",
+    "type": "buy",
+    "rate": "0.02038999",
+    "amount": "0.00471058",
+    "total": "0.00009604",
+    "orderNumber": 644427503572
+  },
+  {
+    "globalTradeID": 426130699,
+    "tradeID": 47560585,
+    "date": "2019-09-17 19:09:33",
+    "type": "sell",
+    "rate": "0.02038870",
+    "amount": "0.00027122",
+    "total": "0.00000552",
+    "orderNumber": 644427488587
+  },
+  {
+    "globalTradeID": 426130682,
+    "tradeID": 47560584,
+    "date": "2019-09-17 19:08:52",
+    "type": "buy",
+    "rate": "0.02036500",
+    "amount": "1.19000000",
+    "total": "0.02423435",
+    "orderNumber": 644427195880
+  },
+  {
+    "globalTradeID": 426130677,
+    "tradeID": 47560583,
+    "date": "2019-09-17 19:08:49",
+    "type": "buy",
+    "rate": "0.02036000",
+    "amount": "0.94960011",
+    "total": "0.01933385",
+    "orderNumber": 644427170905
+  },
+  {
+    "globalTradeID": 426130676,
+    "tradeID": 47560582,
+    "date": "2019-09-17 19:08:49",
+    "type": "buy",
+    "rate": "0.02036000",
+    "amount": "0.24039989",
+    "total": "0.00489454",
+    "orderNumber": 644427170905
+  },
+  {
+    "globalTradeID": 426130675,
+    "tradeID": 47560581,
+    "date": "2019-09-17 19:08:45",
+    "type": "buy",
+    "rate": "0.02036000",
+    "amount": "1.19000000",
+    "total": "0.02422840",
+    "orderNumber": 644427143932
+  },
+  {
+    "globalTradeID": 426130674,
+    "tradeID": 47560580,
+    "date": "2019-09-17 19:08:41",
+    "type": "sell",
+    "rate": "0.02035513",
+    "amount": "0.00501094",
+    "total": "0.00010199",
+    "orderNumber": 644427123952
+  },
+  {
+    "globalTradeID": 426130673,
+    "tradeID": 47560579,
+    "date": "2019-09-17 19:08:39",
+    "type": "buy",
+    "rate": "0.02036000",
+    "amount": "1.19000000",
+    "total": "0.02422840",
+    "orderNumber": 644427113962
+  },
+  {
+    "globalTradeID": 426130669,
+    "tradeID": 47560578,
+    "date": "2019-09-17 19:08:33",
+    "type": "buy",
+    "rate": "0.02036000",
+    "amount": "1.19000000",
+    "total": "0.02422840",
+    "orderNumber": 644427062014
+  },
+  {
+    "globalTradeID": 426130655,
+    "tradeID": 47560577,
+    "date": "2019-09-17 19:08:20",
+    "type": "buy",
+    "rate": "0.02035500",
+    "amount": "0.08033933",
+    "total": "0.00163530",
+    "orderNumber": 644426991085
+  },
+  {
+    "globalTradeID": 426130654,
+    "tradeID": 47560576,
+    "date": "2019-09-17 19:08:20",
+    "type": "buy",
+    "rate": "0.02035499",
+    "amount": "1.10966067",
+    "total": "0.02258713",
+    "orderNumber": 644426991085
+  },
+  {
+    "globalTradeID": 426130652,
+    "tradeID": 47560575,
+    "date": "2019-09-17 19:08:16",
+    "type": "buy",
+    "rate": "0.02035500",
+    "amount": "1.19000000",
+    "total": "0.02422245",
+    "orderNumber": 644426954122
+  },
+  {
+    "globalTradeID": 426130645,
+    "tradeID": 47560574,
+    "date": "2019-09-17 19:08:00",
+    "type": "buy",
+    "rate": "0.02036000",
+    "amount": "1.19000000",
+    "total": "0.02422840",
+    "orderNumber": 644426879197
+  },
+  {
+    "globalTradeID": 426130640,
+    "tradeID": 47560573,
+    "date": "2019-09-17 19:07:59",
+    "type": "sell",
+    "rate": "0.02035500",
+    "amount": "0.00121149",
+    "total": "0.00002465",
+    "orderNumber": 644426867209
+  },
+  {
+    "globalTradeID": 426130634,
+    "tradeID": 47560572,
+    "date": "2019-09-17 19:07:56",
+    "type": "buy",
+    "rate": "0.02036000",
+    "amount": "0.00001612",
+    "total": "0.00000032",
+    "orderNumber": 644426855221
+  },
+  {
+    "globalTradeID": 426130630,
+    "tradeID": 47560571,
+    "date": "2019-09-17 19:07:44",
+    "type": "buy",
+    "rate": "0.02035499",
+    "amount": "1.19000000",
+    "total": "0.02422243",
+    "orderNumber": 644426794282
+  },
+  {
+    "globalTradeID": 426130629,
+    "tradeID": 47560570,
+    "date": "2019-09-17 19:07:40",
+    "type": "buy",
+    "rate": "0.02035999",
+    "amount": "1.19000000",
+    "total": "0.02422838",
+    "orderNumber": 644426774302
+  },
+  {
+    "globalTradeID": 426130627,
+    "tradeID": 47560569,
+    "date": "2019-09-17 19:07:32",
+    "type": "buy",
+    "rate": "0.02034999",
+    "amount": "1.19000000",
+    "total": "0.02421648",
+    "orderNumber": 644426730346
+  },
+  {
+    "globalTradeID": 426130626,
+    "tradeID": 47560568,
+    "date": "2019-09-17 19:07:23",
+    "type": "buy",
+    "rate": "0.02034999",
+    "amount": "1.19000000",
+    "total": "0.02421648",
+    "orderNumber": 644426704372
+  }
+]
